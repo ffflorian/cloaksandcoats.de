@@ -1,5 +1,5 @@
 # [Cloaks and Coats](https://cloaksandcoats.de)
 
-![Zaubereiministerium](zaubereiministerium.png)
+<img src="zaubereiministerium.png" alt="Zaubereiministerium" width="50%" />
 
 (leider für Muggel gesperrt)
